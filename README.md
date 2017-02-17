@@ -21,4 +21,24 @@
 
     guile
 
-    
+# Topics
+
+- Basic Scheme
+  - Variables
+  - Definitions
+  - Procedure
+  - Procedure calls
+    - Write Fibonacci recursive
+  - Tail Recursion
+  - Macros
+    - Write (and) and (or) macros.
+  - Continuations
+- Implementing Scheme
+  - Environment
+  - Variables/Symbols
+  - Evaluation
+  - Continuations (unsure)
+  - Tail call recursion (unfinished)
+  - Macros (unsure)
+
+
